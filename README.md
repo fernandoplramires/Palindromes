@@ -1,8 +1,6 @@
 ##Palindromes challenge##
 
-Problem Description
-Create a Java program to solve the following problem:
-
+Problem Description: Create a Java program to solve the following problem.
 The problem is as follows: choose a number, reverse its digits and add it to the original. 
 If the sum is not a palindrome (which means, it is not the same number from left to right and right to left), repeat this procedure.
 
@@ -32,7 +30,7 @@ the number of iterations (additions) to compute the palindrome and the resulting
 For example:
 195 4 9339
 
-##### Guidelines #####
+#####Guidelines:#####
 01.The solution must be correct.
 02.The solution should not make use of external libraries other than for testing purposes.
 03.The solution should demonstrate a candidate’s abilities as a software engineer including, for example, TDD principles, general object-oriented principles and domain modeling principles.
